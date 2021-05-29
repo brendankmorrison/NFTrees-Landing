@@ -21,7 +21,7 @@
 }
 
 .icon:hover{
-    fill:#23cc8c;
+    fill:rgb(107, 107, 107);
     transition: .5s;
 }
 
